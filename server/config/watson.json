@@ -1,0 +1,9 @@
+{
+    "apikey": "wp0PSfoEIfsWZUyUZS9t_mK8LpxzNhJeRTTRxGc30tO9",
+    "serviceUrl": "https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/d29689da-2650-4f9f-a162-a75165c469c6",
+    "synthesizeParams": {
+        "text": "teste",
+        "accept": "audio/wav",
+        "voice": "pt-BR_IsabelaV3Voice"
+    }
+}
